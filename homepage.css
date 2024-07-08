@@ -1,0 +1,98 @@
+div.form-item.field.email {
+    width: 95%;
+    padding-bottom: 10px;
+}
+
+div.fe-block-yui_3_17_2_1_1683211597873_40671 {
+    padding-top: 10px;
+}
+
+@media only screen and (min-width:320px) and (max-width:479px) {
+    div.fe-block-yui_3_17_2_1_1683211597873_10268 {
+        grid-row-end: 5;
+    }
+
+    div.fe-block-yui_3_17_2_1_1683211597873_121995 {
+        grid-row-end: 8;
+    }
+
+    div.fe-block-yui_3_17_2_1_1683211597873_122865 {
+        grid-row-start: 9;
+        grid-row-end: 13;
+    }
+
+    div.fe-640c1f24a79ac00c1b78b88c {
+        grid-template-rows: repeat(26, minmax(24px, auto));
+    }
+
+    div.fe-block-yui_3_17_2_1_1683211597873_19087 {
+        grid-row-end: 26;
+    }
+
+    div.fe-640c23109aa5a7e6bed9f8a0 {
+        grid-template-rows: repeat(12, minmax(24px, auto));
+    }
+
+    div.fe-block-yui_3_17_2_1_1683211597873_13969 {
+        grid-row-start: 6;
+        grid-row-end: 10;
+    }
+
+    div.fe-block-yui_3_17_2_1_1683211597873_40671 {
+        grid-row-start: 10;
+    }
+}
+
+@media only screen and (min-width:480px) and (max-width:767px) {
+    div.fe-block-yui_3_17_2_1_1683211597873_10268 {
+        grid-row-end: 5;
+    }
+
+    div.fe-block-yui_3_17_2_1_1683211597873_13969 {
+        grid-row-start: 5;
+        grid-row-end: 8;
+    }
+
+    div.fe-block-yui_3_17_2_1_1683211597873_40671 {
+        grid-row-start: 8;
+        grid-row-end: 14;
+    }
+
+    div.fe-block-44c013fe92e45eb121d2 {
+        grid-row-start: 14;
+        grid-row-end: 27;
+        grid-column-start: 1;
+        grid-column-end: 11;
+    }
+
+    div.fe-block-yui_3_17_2_1_1683211597873_19087 {
+        grid-row-start: 28;
+        grid-row-end: 31;
+    }
+
+    div.fe-block-yui_3_17_2_1_1683211597873_53019 {
+        grid-row-end: 14;
+    }
+
+    div.fe-block-yui_3_17_2_1_1683211597873_54596 {
+        grid-row-start: 14;
+        grid-row-end: 17;
+    }
+
+    div.fe-640c23852e7dd9544332b61f {
+        grid-template-rows: repeat(15, minmax(24px, auto));
+    }
+
+    div.fe-block-yui_3_17_2_1_1683211597873_121995 {
+        grid-row-end: 7;
+    }
+
+    div.fe-block-yui_3_17_2_1_1683211597873_122865 {
+        grid-row-start: 8;
+        grid-row-end: 12;
+    }
+
+    div.fe-640c23109aa5a7e6bed9f8a0 {
+        grid-template-rows: repeat(11, minmax(24px, auto));
+    }
+}
