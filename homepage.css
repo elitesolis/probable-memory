@@ -7,7 +7,7 @@ div.fe-block-yui_3_17_2_1_1683211597873_40671 {
     padding-top: 10px;
 }
 
-@media only screen and (min-width:320px) and (max-width:479px) {
+@media only screen and (320px <= width <= 479px) {
     div.fe-block-yui_3_17_2_1_1683211597873_10268 {
         grid-row-end: 5;
     }
@@ -43,7 +43,7 @@ div.fe-block-yui_3_17_2_1_1683211597873_40671 {
     }
 }
 
-@media only screen and (min-width:480px) and (max-width:767px) {
+@media only screen and (480px <= width <= 767px) {
     div.fe-block-yui_3_17_2_1_1683211597873_10268 {
         grid-row-end: 5;
     }
